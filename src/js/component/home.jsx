@@ -9,14 +9,13 @@ const Home = () => {
 	return (
 		<div className="text-center container">
 			<h1 className="text-center mt-5">Landing Page React</h1>
-			<div className="cards d-flex justify-content-center gap-3">
-				<Card />
-				<Card />
-				<Card />
-				<Card />
-			</div>
+			<div className="row">
+                <Card />
+                <Card />
+                <Card />
+                <Card />
+            </div>
 			<Footer />
-			
 		</div>
 	);
 };
