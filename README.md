@@ -1,3 +1,8 @@
+Euclides = Jumbotron
+Yohan = Card
+Luis R Silva = Footer
+
+
 # Hello World with React boilerplate
 
 Start coding a react application
